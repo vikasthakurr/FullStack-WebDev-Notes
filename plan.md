@@ -384,7 +384,6 @@
 - Routing & Deep Linking in Micro Frontends
 - Performance & Security Considerations
 
-
 ## Deployment
 
 ### Module 27 · Deployment
@@ -394,3 +393,55 @@
 - Environment Variables in Production
 - CI/CD Basics (GitHub Actions)
 - Deployment Best Practices
+
+---
+
+## Part 8 — Git & GitHub
+
+### Module 28 · Git
+
+- Git Basics (init, add, commit, status, log)
+- Branching & Merging
+- Remote Repos & GitHub
+- Pull Requests & Code Review
+- Advanced Git (rebase, cherry-pick, stash, bisect)
+
+---
+
+## Part 9 — Testing
+
+### Module 29 · Testing
+
+- Testing Fundamentals (unit, integration, e2e, TDD)
+- Jest Basics
+- React Testing Library
+- API Testing with Supertest
+- E2E Testing with Playwright
+
+---
+
+## Part 10 — Next.js
+
+### Module 30 · Next.js
+
+- Introduction to Next.js
+- App Router & File Conventions
+- Server Components vs Client Components
+- Data Fetching Patterns
+- Server Actions
+- Deployment on Vercel
+
+---
+
+## Part 11 — Data Structures & Algorithms (Interviews)
+
+### Module 31 · DSA
+
+- Big-O Notation
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Sorting Algorithms
+- Searching Algorithms
+- Common Patterns (Sliding Window, Two Pointers, DP, Backtracking)
